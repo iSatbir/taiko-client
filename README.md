@@ -1,4 +1,4 @@
-# taiko-client
+# taiko-client - A Simple Fork :D
 
 [![CI](https://github.com/taikoxyz/taiko-client/actions/workflows/test.yml/badge.svg)](https://github.com/taikoxyz/taiko-client/actions/workflows/test.yml)
 [![Codecov](https://img.shields.io/codecov/c/github/taikoxyz/taiko-client?logo=codecov&token=OH6BJMVP6O)](https://codecov.io/gh/taikoxyz/taiko-client)
